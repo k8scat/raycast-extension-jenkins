@@ -1,6 +1,6 @@
 # raycast-extension-jenkins
 
-Manage your jenkins via [Raycast](https://www.raycast.com/).
+Manage your Jenkins directly from [Raycast](https://www.raycast.com/).
 
 ## Extension Preview
 
@@ -8,7 +8,7 @@ Public extension [PR](https://github.com/raycast/extensions/pull/2870) review is
 
 ## Features
 
-- Manage jenkins
+- Manage Jenkins
 - Manage jobs
 - Global search
 
