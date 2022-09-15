@@ -1,6 +1,6 @@
-# Jenkins
+# raycast-extension-jenkins
 
-Manage your jenkins.
+Manage your jenkins via [Raycast](https://www.raycast.com/).
 
 ## Extension Preview
 
