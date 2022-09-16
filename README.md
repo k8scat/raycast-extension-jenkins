@@ -1,10 +1,12 @@
-# raycast-extension-jenkins
+# raycast-extension-jenki
 
 Manage your Jenkins directly from [Raycast](https://www.raycast.com/).
 
-## Extension Preview
+## Install
 
-Public extension [PR](https://github.com/raycast/extensions/pull/2870) review is slow, join the [organization](https://www.raycast.com/invite/66731c5f) to preview this extension.
+<a title="Install Jenkins Raycast Extension" href="https://www.raycast.com/k8scat/jenkins#install">
+    <img height="64" style="height: 64px" src="https://assets.raycast.com/k8scat/jenkins/install_button@2x.png">
+</a>      
 
 ## Features
 
